@@ -154,23 +154,17 @@ h3, h2{
     flex-direction: column;
     gap: 25px;
 }
-.designed-introducing__subtitle{
+.designed__subtitle{
     font-size: 25px;
     width: 80%;
     margin: 0 auto;
 }
-.designed-introducing__paragraph{
-    color: var(--grayish-blue);
-}
-
-.designed-robust__subtitle{
-    font-size: 25px;
-    width: 80%;
+.designed__paragraph{
+    color: var(--very-dark-grayish-blue);
+    width: 90%;
     margin: 0 auto;
 }
-.designed-robust__paragraph{
 
-}
 
 
 
